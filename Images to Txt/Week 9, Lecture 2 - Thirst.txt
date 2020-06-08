@@ -1,0 +1,416 @@
+Week 9, Lecture 2 - Thirst - Page 0
+Thirst
+
+WEEK 9, LECTURE 2
+
+ 
+
+Let's continue our discussion of internal regulation by moving on to another
+body process ~ thirst ~ which in this class we're referring to as the desire to
+drink fluids (as opposed to any other definitions you might know).
+
+-------------------------------------------
+
+Week 9, Lecture 2 - Thirst - Page 1
+Thirst
+Water constitutes 70 percent ofthe
+mammalian body
+
+Water in the body must be regulated
+within narrow limits
+
+© Sufficient fluid is needed in circulatory
+system,
+
+‘The concentrations of different
+chemicals in water determines the rate
+of all chemical reactions in the body
+
+ 
+
+As you probably know from reading the lids of Snapple bottles or going to
+children’s museums, mammalian bodies consist of nearly 70% water. This is a
+large amount, but it’s also a highly optimal amount for mammals ~ water is
+needed for many bodily processes, and the set point here varies within
+incredibly narrow limits. Too much or too little water can be extremely
+dangerous,
+
+As I mentioned, we need a lot of water in order to regulate normal body
+functions. For example, the circulatory system needs water to help pump and
+distribute blood throughout the body. The chemicals contained in water also
+dictate the rate of different chemical reactions in the body. So if we didn’t
+have sufficient water, processes like neurotransmission would not be possible.
+
+-------------------------------------------
+
+Week 9, Lecture 2 - Thirst - Page 2
+Mechanisms of Water Regulation
+
+Human mechanisms of water regulation vary depending on circumstances
+
+Water levels can be maintained by.
+» Excreting dilute urine (gets rid of excess water)
+
+© Decreasing sweat (retains water)
+
+‘Most often, water regulation is accomplished by drinking more water than
+we need and excreting the rest
+
+ 
+
+‘There's a lot of variance in how different species maintain water levels, and
+even within humans this can vary widely depending on different
+environmental circumstances. Generally speaking, though, water levels are
+‘maintained by two processes, which you can read about above.
+
+‘The easiest way to regulate ths is to consume an excess of water and excrete
+the rest.
+
+-------------------------------------------
+
+Week 9, Lecture 2 - Thirst - Page 3
+Mechanisms of Water Regulation:
+Vasopressin
+
+Vasopressin is a hormone released
+
+by the posterior pituitary gland cd
+“Also known aan antureic rate
+jormane (ADH) te
++ Raises blood pressure by constricting =
+
+blood vessels
+
+“= Helps to compensate for decreased
+water volume (inept
+
+Enables the kidneys to reabsorb a
+Water and excrete highly nin fee Cin
+concentrated urine aoe
+
+ 
+
+‘Our pituitary glands release a hormone called vasopressin (also known as
+“antidiuretic hormone”), which helps our bodies conserve water when it’s
+scarce, but also when we're unable to consume water, like when we're asleep.
+You can read about how it functions in the slide above.
+
+‘The diagram here is meant to help you, not hurt you. Start at the
+“hypothalamus” and work your way down. You can see the role of
+vasopressin, and how it eventually enables water to be reabsorbed from the
+kidneys. This is an incredibly efficient process, as it ensures that all necessary
+‘water is absorbed. The result is highly concentrated urine ~ it’s highly
+‘concentrated because it only contains the most unnecessary amounts of water
+and other waste products.
+
+-------------------------------------------
+
+Week 9, Lecture 2 - Thirst - Page 4
+Types of Thirst
+
+Two different kinds of thirst.
+© Osmotic thirst: results from eating salty foods
+
+© Hypovolemic thirst: a thirst resulting from loss of fluids due to bleedi
+or sweating
+
+Fixed concentration of solutes in the body is a set point
+© 0.15 M (molar) in mammals
+
+ 
+
+‘There are actually two different types of thirst, although we experience them
+
+as generally the same motivational feeling (there are subtle differences, which
+‘we'll discuss here). You can read very general descriptions of these two types
+of thirst above.
+
+We have a set point for the amount of solutes in the body. Solutes are
+‘molecules of any particle that are present in a given solution. In mammals, this
+set point is at 15 molar, meaning that there are .15 particles or solutes per unit
+of liquid. If we deviate from this set point, mechanisms like thirst kick in to
+return to it
+
+-------------------------------------------
+
+Week 9, Lecture 2 - Thirst - Page 5
+Osmotic Pressure
+
+Solutes inside and outside a cell create osmotic pressure
+© Water flows across a semi-permeable membrane from an area of low solute
+
+concentration (comparatively low molarity) to an area of high solute
+concentration (comparatively high molarity)
+
+© Occurs when solutes are more concentrated on one side of the membrane
+“ Helps even out the molarity
+
+ 
+
+‘One such mechanism for returning to this set point is something called osmotic
+pressure, which you can read about above.
+
+Basically, when there are more solutes on one side of the membrane, it means,
+‘that the molarity is higher on that side compared to the other. Water will tend
+to flow rowards the side with more solutes in order to even out the molarity.
+‘This should sound somewhat familiar ~ recall the process of diffusion from
+‘our lecture on neurotransmission. This is a similar ~ though not identical ~
+process, and I'll leave it to you to think about how they are similar and
+different from one another.
+
+-------------------------------------------
+
+Week 9, Lecture 2 - Thirst - Page 6
+The Consequence of a Difference in
+Osmotic Pressure
+
+ 
+
+‘This how this process might look at the neuronal level. You have more solutes
+(indicated here by the green particles) on the outside of the cell, and water will
+‘want to flow outside to equalize the molarity inside and outside the cell. The
+result is thatthe cell itself will shrink, because it loses water,
+
+-------------------------------------------
+
+Week 9, Lecture 2 - Thirst - Page 7
+Osmotic Pressure
+
+Eating salty food causes sodium ions to spread through the blood and
+
+extracellular fluid of the cell
+
+© The higher concentration of solutes outside the cell results in osmotic
+pressure, drawing water from the cell to the extracellular fluid
+
+Certain neurons detect the loss of water and trigger osmotic thirst to help
+restore the body to its normal state
+
+ 
+
+As you might've guessed, osmotie pressure can lead to osmotic thirst. You can
+read about this process more in the slide above,
+
+-------------------------------------------
+
+Week 9, Lecture 2 - Thirst - Page 8
+Detecting Osmotic Pressure
+
+The brain detects osmotic pressure
+from,
+
+« Receptors around the third ventricle
+© The OVIT (organum vasculosum
+
+laminae terminalis) and the
+subfornical organ (SFO) detect osmotic
+pressure and sodium content of the
+blood
+
+© Receptors in the periphery, including
+the stomach and digestive tract,
+
+ 
+
+‘The brain doesn’t detect the change in osmotic pressure from everywhere ~
+there are specific parts of the brain and body that send these signals,
+
+For example, there is an area around the third ventricle in which the blood-
+brain barrier is very weak; this area can easily monitor the concentration of
+fluids in the bloodstream, and report to other areas of the brain like the
+hypothalamus (which controls the sensation of thirst).
+
+‘There are also these other brain areas: the OVLT and SFO (subfornical organ),
+which help detect osmotic pressure ~ as well as areas in the periphery like the
+digestive tract. The book goes over these in much more detail, and I suggest
+‘you read up on this section for the next exam,
+
+-------------------------------------------
+
+Week 9, Lecture 2 - Thirst - Page 9
+IOVLT, SFO (and other)
+Receptors
+
+Receptors in the OVLT, SFO, stomach,
+and elsewhere relay information to
+two areas of the hypothalamus.
+* Supraoptic nucleus
+Paraventrcular nucleus
+* Both contol the rate a which the
+posterior ptultary releases vasopressin
+
+Receptors also relay information to
+the lateral preoptic area, which
+controls drinking behavior
+
+ 
+
+Receptors from these different brain and peripheral areas relay information to
+‘two main areas of the hypothalamus: the supraoptic nucleus, and the
+‘paraventricular nucleus. Both structures control the rate of release of
+vasopressin, This diagram shows a little more detail than what we're talking
+about, but you can focus on the relevant areas (circled in red) to see where
+they're located within the hypothalamus. And you can see that both structures
+have a direct connection to the posterior pituitary.
+
+‘These receptors also communicate with the lateral preoptic area, which
+controls the behavior of drinking itself.
+
+-------------------------------------------
+
+Week 9, Lecture 2 - Thirst - Page 10
+Osmotic Thirst
+
+When osmotic thirst is triggered, water that you drink must be absorbed
+through the digestive system.
+
+«Delivered by the blood to the brain
+
+«© Process takes about 15 minutes
+
+‘To inhibit thirst, the body monitors swallowing and detects the distension
+of the stomach and intestines
+
+ 
+
+‘What happens once osmotic thirst is triggered? Read through the first three
+points above.
+
+‘These are largely allostatic processes ~ if you eat something salty, for example,
+‘your body will anticipate the change in osmotic pressure and motivate you to
+{drink something (hopefully water) before the change in pressure actually
+‘occurs, Similarly, we often get thirsty (for something to drink) right before
+bed, and this motivational state is your body anticipating not being able to
+drink for an extended period of time.
+
+"Now, what stops us from continuing to drink once we start? The body actually
+‘monitors how much the stomach and intestines distend, or exert pressure,
+‘which increases as more water enters these areas.
+
+-------------------------------------------
+
+Week 9, Lecture 2 - Thirst - Page 11
+Hypovolemic Thirst and Sodium-Specific
+Hunger
+
+Hypovolemic thirst is associated with a lower volume of body fluids
+© Need to replace salts as well as fluids
+
+Low blood volume ~ kidneys release the enzyme renin which helps form
+angiotensin |
+
+© Other enzymes convert that into angiotensin It
+
++ Like vasopressin, angiotensin I constrict blood vessels to compensate for a
+drop in blood pressure
+
++ Angiotensin Il stimulates neurons in areas adjoining the third ventricle
+= Neurons in the third ventricle send axons to the hypothalamus where
+angiotensin Il is released as a neurotransmitter
+
+ 
+
+So that’s osmotic thirst. Lets shift gears a little now and talk about the other
+type of thirst ~ hypovolemic thirst. Whereas osmotic thirst is associated with
+the concentration of solutes in the body, hypovolemic thirst is more concerned
+‘with the volume of fluids in the body (although it also helps replace salts)
+
+How does this process actually work? You can read about it more above.
+
+-------------------------------------------
+
+Week 9, Lecture 2 - Thirst - Page 12
+Hypovolemic Thirst and Sodium-Specific
+Hunger
+
+Thirst is associated with a lower volume of body fluids
+
+Low blood volume ~ kidneys release the enzyme renin which helps form
+angiotensin |
+© Other enzymes convert that into angiotensin I!
+
+gat ap nese, ap raimin bens, a> Antena pte ci
+
+Spocnnt enue onan
+Stoceoean
+
+ 
+
+‘This is justa flow chart to help you when you're studying; it essentially
+‘outlines the process I just described.
+
+-------------------------------------------
+
+Week 9, Lecture 2 - Thirst - Page 13
+Hypovolemic Thirst and Sodium-Specific
+Hunger
+‘Animals with osmotic thirst have a preference for pure water
+
+‘Animals with hypovolemic thirst have a preference for slightly salty water
+«Pure water dilutes body fluids and changes osmotic pressure
+
+Sodium-specific hunger - strong craving for salty foods
+“= Aldosterone (a hormone produced by the adrenal glands), increases retention
+of salt and alters taste system to make salty foods more desirable
+
+ 
+
+[read through the first three points above]
+
+‘This process of regulating sodium levels also translates to hunger. Mammals,
+have a process called sodium-specific hunger, which induces a strong craving
+for salty foods. This is ll controlled by a hormone called aldosterone, which
+makes salty foods more rewarding and also increases the retention of sal.
+
+-------------------------------------------
+
+Week 9, Lecture 2 - Thirst - Page 14
+Comparison of Osmotic and
+Hypovolemic Thirst
+
+ere ers
+by eo
+Highsolute | Purewater | OVLT,
+‘concentration ‘subfornical
+outside cells organ, and
+digestive tract
+low blood ‘Water Kidneys and
+Volume containing _| blood vessels
+solutes, near
+015M.
+
+Td
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+To finish up, this is just a handy chart laying out the differences in the two
+{types of thirst. You'll need to know these two processes in much more detail,
+‘but I feel like this provides a good summary of the main points of each.
+
+-------------------------------------------
+
+Week 9, Lecture 2 - Thirst - Page 15
+Questions for your discussion groups..
+1. How does osmotic pressure lead to osmotic thirst?
+
+2. How is hypovolemic thirst different from osmotic thirst? Do not just
+define each ~ specifically explain how they're different.
+
+ 
+
+‘Okay, here's two questions for your discussion group. I'l see you in the next
+lecture, which is on hunger!

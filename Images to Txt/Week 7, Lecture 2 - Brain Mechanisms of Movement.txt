@@ -1,0 +1,896 @@
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 0
+Brain Mechanisms of
+
+Movement
+
+WEEK 7, LECTURE 2
+
+ 
+
+‘Okay everyone, this is lecture 2 for this series. In our last lecture we talked
+about how neurons connect to muscles, and how those neurons induce muscle
+contractions and reflexive behaviors. Now we're going to get into the more
+detailed aspects of movement: mainly, the different brain areas that control
+different types of movement. So let's get started! (writing this out, I realize I
+say that alot ~ sorry!)
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 1
+Brain Mechanisms of Movement
+
+Understanding how the brain
+controls movement offers hope
+for spinal cord damage or limb
+amputations
+
+ 
+
+It’s really important to understand how the brain controls movement. First of
+all, because it's good to know how it’s supposed to function under normal
+circumstances. Second of all, it's important because it can help us develop new
+technologies to help people with movement disorders, like people with spinal
+cord damage or limb amputations. Prosthetics that are controlled by brain
+impulses, like the arm in this image for example, have become more and more
+refined over the last few years due to this line of research. And it all starts with
+understanding how the brain initiates and controls movement.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 2
+The Cerebral Cortex
+
+The primary motor cortex is located
+in the precentral gyrus in the frontal
+lobe
+
+Axons from the precentral gyrus
+
+connect to the brainstem and the
+spinal cord, which generate impulses
+that control the muscles
+
+ 
+
+‘The first area we'll discuss is the primary motor cortex, which is located in the
+precentral gyrus of the frontal lobe, This area has a direct connection to the
+brainstem and spinal cord, and this network together helps generate the
+impulses that control muscle movement.
+
+Other areas lke the premotor cortex and supplementary motor cortex, are
+also involved in motion. These areas in particular are activated during the
+planning of movements. We'll talk more about these areas later — this is just
+an example.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 3
+The Cerebral Cortex
+
+Other areas of the cerebral cortex are also involved in complex
+movements.
+
+«Also involved in thinking about verbs related to movement, imagining
+‘movernents, and remembering movements
+
+kt
+
+Complex movement (more voluntary) = "Non complex movements (more involuntary =
+
+‘ang wing et. ‘seeing couphine cine.
+
+ 
+
+‘The primary motor cortex is the main area for motor control, but other areas of
+the cerebral cortex are also involved in generating more complex movements,
+
+Complex movements are movements that are more voluntary (although again,
+all movement is a combination of both) ~ things like writing or talking.
+
+‘This is in contrast to non-complex movements, which tend to have less
+involvement of the cerebral cortex. These are things that are more involuntary,
+like sneezing or coughing.
+
+‘The cerebral cortex is also involved in movement-related thoughts, like
+imagining or remembering movements ~ or even just thinking about verbs
+related to movement. So the cerebral cortex can simulate movement, even
+when no overt movement is occurring! This can be especially helpful for
+planning out sequences of movement.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 4
+Muscle Control from the Primary Cortex
+
+Different paths from the primary
+‘motor cortex, basal ganglia, etc.
+send signals to the medulla and.
+spinal cord
+
+Signals from the medulla and
+spinal cord initiate muscle
+‘movements in the periphery
+
+ 
+
+isa diagram of all of the relevant areas and pathways involved in different
+types of motor movement. Broadly, different paths from areas like the
+primary motor cortex, basal ganglia, and other cortical areas, send signals to
+‘the medulla and spinal cord. Signals from the medulla and spinal cord then
+initiate muscle movements.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 5
+Planning a Movement
+
+Specific areas of the primary motor cortex are responsible for control of specific
+areas of the opposite side of the body
+© Some overlap does exist
+
+‘The primary motor cortex is active when people intend a movement
+
+«The primary motor cortex “orders” an outcome
+
+Other areas near the primary motor cortex also contribute to movement
+Posterior parietal cortex > keeps track of the sition of the body relative to the
+world
+© Damage to this area causes dificult in coordinating visual stimul with movement
+
+ 
+
+So let's talk about the planning of movements. While movements themselves
+can be voluntary or involuntary, the planning of movements is largely
+unconscious. The planning of movements is controlled by specific areas of the
+primary motor cortex, although some overlap exists. And like many aspects of
+brain and behavior, this is a contralateral process.
+
+So here's how it works: the primary motor cortex activates when you intend to
+initiate a movement, at which point it “orders” an outcome, which will begin
+to execute no matter which position your body is in. Other areas near the
+primary motor cortex also help coordinate this movement, which you should
+read about in the slide above,
+
+People with damage to the posterior parietal area have issues with finding
+‘objects in space, even though they can accurately verbally describe them. They
+also tend to bump into things when walking. So this is an area that provides
+some of the visual feedback needed to successfully move around in the world
+And this makes sense, too, when you think back to the dorsal stream of visual,
+processing and its function, which is also located in the parietal lobe.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 6
+The Primary Somatosensory vs. Primary
+Motor Cortex
+
+ 
+
+‘This diagram is very often shown when talking about both movement and
+sensation, and that's because the somatosensory cortex (on the left) and the
+primary motor cortex (on the right) are located adjacent to one another!
+
+So the motor area responsible for moving a certain body part is actually
+aligned with the somatosensory area responsible for feeling that body part.
+
+Communication between sensing and moving is therefore essential for
+movement.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 7
+Other Areas for Planning a Movement
+
+Premotor cortex
+© Active during preparation for
+movement
+
+«© Receives information about a target ©,
+
+=
++ Integrates information about
+
+position and posture of the body >
+
+organizes the direction of the
+
+‘movement in space
+
+ 
+
+Let's talk about some other areas involved in movement planning. First we
+have the premotor cortex, which is active during preparation for movement.
+You can read more about it in the slide above.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 8
+Other Areas for Planning a Movement
+
+Supplementary motor cortex
+© Organizes rapid sequence of
+‘movernents in a specific order;
+inhibitory if necessary
+
+«Active seconds before the
+‘movement
+
+© Active following an error in
+‘movernent so you can inhibit the
+Incorrect movement the next time
+
+ 
+
+‘The supplementary motor cortex is also involved... this area helps organize
+rapid sequences of movement (e.g., throwing a ball, dancing, etc.) into a
+specific order.
+
+‘This area can be inhibitory when, say, you need to change up a habitual action,
+‘or after you make an error in movement (it'll help correct for that the next time
+
+you try it.
+
+You can read more about this area in the slide above,
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 9
+Other Areas for Planning a Movement
+
+Prefrontal cortex
+
+© Necessary for you to consider the
+probable outcomes of a movement
+© Active during a delay before movement
+
+© Stores sensory information relative toa
+movement
+
+ 
+
+Finally, the prefrontal cortex is also involved in planning movements. The
+prefrontal cortex is an area associated with what we often like to call “higher
+cognitive functions” ~ things like planning, working memory, and inhibitory
+control. These functions generally apply to motor movement as well, as, for
+
+example, this area helps you simulate the probable outcomes of a movement.
+
+In terms of activation, this area activates during the delay between when
+‘movement is intended and when it's initiated, It also stores sensory
+information relative to a movement, which helps provide feedback as to
+whether that movement was successful oF not.
+
+People with damage to the prefrontal cortex often do really weird things like
+shower with their clothes on, And actually for most of us, the prefrontal cortex
+isnot active during sleep, and because of that the actions you take in dreams
+resemble those of people with prefrontal cortex damage.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 10
+Inhibition of Movements
+
+Antisaccade task + inhibits a voluntary saccade (i.e., an eye movement
+
+from one target to another)
+
+“In this task, participants are asked to look in the opposite direction as a stimulus
+«Eg, if something is presented on the right side, look towards the left side, and vice
+
+Look left Look right
+
+So those are the areas involved in the initiation of movements, but what about
+when movements need to be inhibited? One way to study this is with
+something called an antisaccade task, which is a task that inhibits saccades.
+Recall from our lecture on vision that saccades are rapid eye movements that
+you can make either voluntarily or involuntarily (your book places heavy
+emphasis on the “voluntary” aspect, but saccades can also be involuntary),
+
+In any case, these tasks are used to measure the parts of the brain that are
+activated when a movement needs to be inhibited. You can read about how
+these tasks are generally implemented above.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 11
+Inhibition of Movements
+‘Antisaccade task > inhibits a voluntary saccade (i.e., an eye movement
+from one target to another)
+
+Performing this task well requires sustained activity in parts of the
+prefrontal cortex and basal ganglia before seeing the moving stimulus
+
+Ability to perform this task matures through adolescence
+
+ 
+
+So, performing this task well appears to require sustained activity in parts of
+the prefrontal cortex and basal ganglia before seeing the moving stimulus.
+Why before? Because the brain needs time to stop the action and replace it
+with something else.
+
+Performance on this task tends to be very low for children, but it gets better
+and matures through adolescence, as the prefrontal cortex develops. It also
+decreases in old age, as the prefrontal cortex tends to lose volume as we age.
+‘The ability to inhibit movements is tied closely to the prefrontal cortex, which
+isan area that controls our ability to inhibit initial responses.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 12
+Mirror Neurons
+
+Neurons that are active during both
+preparation of a movement and while
+‘watching someone else perform the
+same or similar movement
+© May be important for understanding,
+identifying, and imitating other people
+© May be involved in social behaviors
+(ecg, imitating facial expressions)
+© Unknown whether they cause or result
+from social behavior
+
+ 
+
+‘This is kind of a side bar, but humans (and other animals) appear to have this
+really interesting ability to coordinate our movements with the movements of
+others ~ and this seems to be somewhat involuntary. And researchers have
+found that a special type of neuron ~ called a mirror neuron ~ is activated
+when mimicking the movements of others. These neurons appear to be active
+both while watching someone perform a movement, and while performing that
+movement ourselves, which suggests that we have a built-in propensity to
+imitate other people. This ability has been heavily implicated in social
+behaviors and social leaning, but we don't really know if they are the cause or
+result of social behavior.
+
+Speaking to the last point, the question is whether we're born with these
+neurons, which can help facilitate social learning, or whether we develop and
+strengthen these neurons and their connections as we gain more experience
+with imitation, in which case they’re a result of social learning, not the cause.
+‘The jury is stil out, and this is a fairly new area of study, but it's really
+interesting as it suggests neurological underpinnings for our ability to learn
+from others.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 13
+Connections from the Brain to
+the Spinal Cord
+
+‘Messages from the brain must reach the medulla and spinal cord to
+control the muscles
+
+Corticospinal tracts are paths from the cerebral cortex to the spinal cord
+
+Two such tracts:
+© Lateral corticospinal tract
+© Medial corticospinal tract
+
+ 
+
+‘Okay, let's talk litle more about the pathway of motor information. So far
+‘we've talked about how the brain begins to initiate movement and how it can
+inhibit movement ~ let's talk about what happens once the brain definitively
+“decides” to execute a movement. So, very generally, once a “decision” is
+‘made, these messages are sent to the medulla and the spinal cord, and from the
+spinal cord they'll be sent to their requisite areas in the periphery.
+
+‘These signals move along special tracts called corticospinal tracts... and there
+are two of these tracts, which are labeled above.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 14
+Lateral Corticospinal Tract
+
+set of axons from the primary motor cortex and
+surrounding areas > red nucleus > the spinal
+cord
+* Red nucleus: a midbrain area with output mainly to
+the arm muscles
+© Controls movement in peripheral areas (hands and
+feet)
+‘Axons extend from one side of the brain to the
+‘opposite side of the spinal cord, and control
+‘opposite side of the body
+
+ 
+
+[read through slide first]
+
+‘This area is also known as the pyramidal tract, because the tract crosses to the
+contralateral side of the body in these bulges in the medulla called pyramids.
+‘This is the area labelled decussation of pyramids. Decussation essentially
+indicates an area of crossover.
+
+‘This is actually a pretty detailed drawing, and while it’s hard to read here, you
+‘can zoom in and get a closer look at the different components involved (or
+loosely related to) this tract. Hopefully i'll give you a better idea of how these
+areas all work together.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 15
+Medial/Anterior
+Corticospinal Tract
+
+A set of axons from many parts of the cortex
+* Reticular formation, midbrain tectum, vestibular
+nucleus, et.
+
+© Vestibular nucleus isa brain area that receives
+information from the vestibular system
+
+The medial tract controls the muscles of the
+neck, shoulders, and trunk
+« Responsible for bilateral movements like
+
+walking, turning, bending, standing up, and
+down
+
+ 
+
+‘The other tract is the medial or anterior corticospinal tract, and you should
+read through the slide to learn more about it.
+
+‘The medial/anterior tract is responsible for bilateral movements, which are
+‘movements that require coordination of both sides of the body ~ things like
+‘walking or standing up. Because this tract controls movements that require
+‘coordination of both sides of the body, axons in this tract go to both sides of
+‘the spinal cord, rather than just to the contralateral side. You can’t really make
+it out on this diagram (unless you zoom in, which I recommend), but Ill give
+‘you clearer image on the next slide.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 16
+The Lateral and Medial Corticospinal Tracts
+
+Lateral Tract Medial/Anterior Tract
+For a summary se: nins//wnuyoutvbe con/watchv= Malina,
+
+ 
+
+Here's a comparison of the two tracts. The lateral tract is on the left, and you
+can see how it's much more tightly concentrated and contralaterally
+organized, right? It goes directly from the right side of the cortex, down
+‘through the pyramids of the medulla, and then to the oppasite side of the
+spinal cord,
+
+ 
+
+In contrast, the medial/anterior tract on the image on the right is more spread
+‘out, and once it leaves the reticular formation it innervates (i.e., connects) to
+both sides ofthe spinal cord.
+
+If you'd like a summary of these two tracts, 've included a 2-minute
+neuroscience video for you at the bottom of the slide here. It goes into a little
+‘more detail than | did, and so just to remind you you're only responsible for
+‘the information in my lectures, not in these videos, unless | say otherwise.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 17
+The Touch Path and the Lateral Corticospinal Tract
+
+ 
+
+Just to provide one more,
+of the touch tract, which is indicated in blue, to the lateral corticospinal tract,
+\which is indicated in red. Both paths cross in the medulla, meaning both are
+contralateralized. Notice also that touch information arrives at brain areas
+that are also responsible for motor control. This again highlights the close
+relationship between sensation and movement — we need to be able to get,
+sensory feedback from the environment in order to successfully navigate
+‘through the world around us.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 18
+Disorders of the Spinal Cord
+
+Damage to mata eronsor eons he
+solar
+
+rays | malty for sclatary moment in part ofthe body
+
+ 
+
+raapegs | les Despite beak of seston rome ema,
+Smunton ote ental roduc msm)
+
+os senston and vn muse contin bth | Ga tvaugh esl cordial ea)
+
+semanas rego or corte mae
+
+os of snaton nd vor made convlinthe | Cathlva though hep coror aamage
+
+eral oe he et orf ie {Sere hemnhere ol theceral corte
+
+Snearedsenator andmusclecontolin hes | Dome the doi rox of spl cord
+
+fnveregonncingbowe ober corral | om ete Sage ahs
+
+oiler
+
+‘Aca ough spa cardia the onc
+ron er tower
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pa.
+
+ 
+
+Unknown, raed ent mutations in same
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+As you might have seen in the video (and even if you haven’t seen it yet),
+‘there are lots of things that can go wrong due to damage to the spinal cord.
+‘This is another one of those tables that I do not need you to memorize, but it's
+here if you're interested in some of the different types of injuries that ean
+‘occur that we don’t have time to touch on in this class.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 19
+The Cerebellum
+
+A structure inthe brain often associated
+
+with balance and coordination
+
+* More neurons in the cerebellum than inal
+ther brain areas combined
+
+Important forthe establishment of new
+‘motor programs that allow the execution
+of a sequence of actions as a whole (e.,
+tasks that require timing)
+
+Damage to the cerebellum causes trouble
+with rapid movements requiring
+aim/timing
+* Bxamples: lapping hands, speaking,
+writing, ete
+
+ 
+
+‘Okay, so let's move on and talk about some of the other major areas involved
+in the actual execution of movement, We'll start with the cerebellum, which is
+the brain structure most commonly associated with balance and coordination,
+And, fun fact ~ this area is jam-packed with neurons. It has more neurons than
+in all other brain areas combined! So there's a lot going on here.
+
+‘This area is hugely important in executing sequences of movement ~
+especially those that require precise timing, like catching a ball. And so it
+follows that damaging this area will cause trouble with movements that require
+coordination ~ things like clapping, speaking, or writing (or catching a ball)
+will be impaired,
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 20
+The Cerebellum and Functions Other
+than Movements
+Responds to sensory information even in the absence of movement
+
+Responds strongly to violations of sensory information
+© Example: reaching to touch something and not feeling itor feeling
+something when you don’t expect to feel it
+
+Also critical for certain aspects of attention, such as the ability to shift
+attention and attend to visual stimuli
+
+ 
+
+‘The cerebellum is often primarily attributed to movement, but it also responds
+{to sensory information in the absence of movement. You can read some
+examples in the slide above.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 21
+Cellular Organization of the Cerebellum
+
+‘The cerebellum receives input from the spinal cord, from each of the sensory
+systems and the cerebral cortex, and sends it to the cerebellar cortex
+
+‘The cerebellar cortex is the surface of the cerebellum.
+Cerebellar cortex neurons are arranged in precise geometrical patterns that
+
+provides outputs of well-controlled duration
+* Purkinje cells: lat parallel cells in sequential planes
+alll fibers: axons parallel to one another; perpendicular to planes of Purkinje
+calls
+
+‘The greater the number of excited Purkinje cells, the greater their collective
+duration of response
+
+ 
+
+[read through slide first]
+
+Basically parallel fibers send messages out one after the other. Ifonly a few
+signals from these fibers reach the purkinje cells, they won't fire for very long.
+(On the other hand, if these parallel fibers are continually fring, they'll
+essentially lengthen the amount of time the purkinj cells will fire
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 22
+Parallel Fibers and Purkinje Cells
+
+ 
+
+Here's a couple of diagrams just to show you how these cells are organized in
+‘the cerebellum.
+
+ 
+
+‘The pinkish-red cells are purkinje cells, and you can see how they're organized
+in this really nice pattern. The yellow lines here are parallel fibers, which run
+across the length of the purkinje cells.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 23
+Cellular Organization of the Cerebellum
+Parallel fibers excite Purkinje cells
+
+Purkinje cells transmit inhibitory messages to the cells in the nuclel of the
+cerebellum (clusters of cell bodies in the interior of the cerebellum) and
+the vestibular nuclei in the brain stem
+
+‘Messages then sent to the midbrain and the thalamus
+
+ 
+
+So how does this all come together? Well, you have these parallel fibers that
+lie across the top of purkinje cells. And they synapse onto and excite purkinje
+cells. Purkinje cells are primarily inhibitory, meaning that when they're
+excited they send out an inhibitory signal (typically in the form of GABA).
+‘This inhibitory signal travels to two areas: the nuclei of the cerebellum, and
+the vestibular nuclei in the brain stem
+
+‘Their job is to basically regulate the signals received from different areas of
+the body. If you think about it, many of the signals that come from the rest of
+the body are excitatory. Purkinje cells inhibit these different excitatory
+responses strategically, which controls when and how all of this excitatory
+information reaches the rest of the brain. So they essentially regulate
+‘movement by telling the brain and body when to inhibit certain actions.
+
+I've included another 2-minute neuroscience video if you're interested in
+learning more. Again, this goes into WAY more detail than our class, but it’s
+here if you're interested!
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 24
+The Basal Ganglia
+
+The basal ganglia is a group of large
+subcortical structures in the forebrain
+«© Primarily responsible for initiating
+‘more voluntary (and less reflexive)
+
+behaviors
+
+Comprised of the following structures*:
+» Caudate nucleus
+
+» Putamen
+
+» Globus pallidus
+
+ 
+
+‘Okay, let's move on and talk about another major structure involved in
+movement: the basal ganglia, We talked a little about the basal ganglia in our
+lecture on neuroanatomy, but now we're going to look at it a much more
+closely.
+
+So, the basal ganglia isn't just a single structure, it’s actually a group of
+subcortical structures in the forebrain, which are listed in the slide above.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 25
+The Basal Ganglia
+
+Caudate nucleus and putamen (together called the striatum)
+“Receive input from the cerebral cortex
++ Send output to the globus palidus
+
+Globus pallidus sends output to the thalamus
+
+‘Thalamus relays information to other motor areas and the prefrontal
+cortex
+
+ 
+
+So let's talk about what each of these substructures is responsible for. To give
+‘you a general idea, you should read through the slide above.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 26
+The Basal Ganglia
+
+Two pathways:
+
+© Direct (excitatory) > enhances a selected movement
+* Inhibits the globus pallidus, which inhibits part ofthe thalamus
+«Net result sexton!
+
+“Indirect (inhibitory) > inhibits competing movements
+* This one's complicated.
++ Inhibits the globus palldus, which inhibits the subthalamic nucleus
+«The subthalamic nucleus lops back and excites part ofthe globus pallidus
+Causes inhibition ofthe thalamic nucle!
++ Net result isinhibtion!
+
+ 
+
+‘There are actually two pathways involved here: the direct and indirect
+pathway,
+
+[read through the direct pathway first] Basically, the thalamus tends to send
+‘out inhibitory signals with regards to movement. When it receives an
+inhibitory signal from the globus pallidus, the net result is an excitation, which
+‘can initiate movement.
+
+[Now read through the indirect pathway. Take a deep breath, and read the little
+footnote at the bottom. All I want you to know is the function of each pathway,
+not how they workin detail. But hate hand-wavy explanations, so I made you
+read through ths just so you would have an idea of what's involved ©]
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 27
+The Basal Ganglia
+
+@®@
+
+Want bre summary? Se: hin /v youtube com/watch a OO24PSGzIND
+
+ 
+
+   
+
+isa diagram of the two pathways — the direct on the left and the indirect
+con the right. 've also included yet another two-minute neuroscience video, in
+case you'd like a quick summary of what | just described.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 28
+Brain Areas and Motor Learning
+
+The learning of new skills requires multiple brain areas involved in the
+
+control of movement
+
+Basal ganglia is critical for learning motor skill, organizing sequences of
+‘movernent, “automatic” behaviors, and new habits
+
+© Example: driving a car
+
+«The pattern of activity of the neurons in the motor cortex becomes more
+consistent as a new skills learned
+
+ 
+
+‘The basal ganglia is especially relevant for the learning of new skills, which
+‘you can read about in the slide above.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 29
+Conscious Decisions and Movement
+
+The conscious decision to move, and the movement itself, occur at two
+different times
+
+A readiness potential is a particular type of activity in the motor cortex
+that occurs before any type of voluntary movement
+
+© Begins atleast 200ms before the movement
+
++ Implies that we become conscious of the decision to move after the process
+has already begun!
+
+ 
+
+‘Okay, that does it forthe basal ganglia, There's a section in your book that,
+‘goes into more detail about the specific movements it controls, and I highly
+recommend you read up on that section while you're studying, as this is
+information I would like you to know for this class.
+
+But let’s move on now and talk about conscious decisions and movement,
+
+So, this might seem a little unintuitive, but the conscious decision to move and
+‘the movement itself actually occur at two different times.
+
+‘Our brains have something called a readiness potential, which involves,
+activation in the motor cortex that can be observed before any type of
+voluntary movement is actually made. Research has shown that this potential
+starts at least 200ms before the movement itself occurs, which is really crazy,
+because it implies that we move first and become conscious of that movement
+later!
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 30
+Libet’s Study of Conscious Decisions and
+Movement
+
+ 
+
+‘This was one of my favorite studies to learn about when | was an
+undergraduate... although I have to say, its results have been called into
+question in recent years, But! | think it's still worth learning about, because
+it'll get you thinking about the potential disconnect between how our bodies
+behave and our conscious perception of how our bodies behave. So here's
+how the study went...
+
+‘A participant was hooked up to an EEG and a sensor was placed on their wrist.
+‘They were asked to watch a display in which a light moved around a clack.
+‘They were told that they could move their wrist whenever they wanted, but
+to note where the light was on the clock when they decided to move.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 31
+Libet’s Study of Conscious Decisions and
+Movement
+
+ 
+
+‘This diagram on the right here is their brain activity as they made the decision
+‘to move and then moved. On average, people reported that their decision to
+move occurred about 200ms before they actually moved, and the brain's
+readiness potential reflected that. Looking at the diagram, the readiness
+potential began at least 300ms before the reported decision, which itself
+occurred about 200ms before the movement.
+
+So | think this is really cool. It suggests that your brain starts preparing to
+make a movement BEFORE you consciously decide to move. You become
+conscious of the decision to move after the process to initiate movernent has
+already begun. | can't say this enough - that’s really cool! But lke I said, this is
+a controversial finding. Your book actually does a good job addressing some of
+‘these concerns. | unfortunately don’t have time to go over them here, but the
+information is there if you're interested.
+
+-------------------------------------------
+
+Week 7, Lecture 2 - Brain Mechanisms of Movement - Page 32
+Questions for your discussion groups..
+
+4. Describe the lateral and medial corticospinal tracts, both in terms of
+physiology and function
+
+2. How does the basal ganglia initiate movement?
+
+ 
+
+‘Okay, that does it fr the second lecture in our series for this week. Our last
+and final lecture will cover movement disorders. See you all there! ©

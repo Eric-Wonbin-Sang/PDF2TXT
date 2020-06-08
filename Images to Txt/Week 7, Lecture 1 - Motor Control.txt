@@ -1,0 +1,470 @@
+Week 7, Lecture 1 - Motor Control - Page 0
+Motor Control
+
+WEEK 7, LECTURE 1
+
+ 
+
+Alright everyone, welcome back! I hope you all had a good exam ~ or as good
+as itcan be, given that you had to take an exam,
+
+We're now in week 7 (I can’t believe how fast the quarter has gone by!), and.
+we're going to start the first of our last four lecture series. This week's topic is
+(on motor movements
+
+And again, | apologize for having to write out notes to you all instead of
+‘giving the lectures verbally. This isn’t ideal for any of us, but I wouldn't be
+doing it this way if I didn't absolutely have to. With that in mind, I'm going to
+‘try and make these notes as clear and conversational as possible.
+
+-------------------------------------------
+
+Week 7, Lecture 1 - Motor Control - Page 1
+This lecture series will cover.
+Motor control
+Brain mechanisms involved in movement.
+
+Movement disorders
+
+ 
+
+Here's what's on the agenda for this week. We'll be covering how our muscles
+‘work and connect to our brains, how our brain coordinates various sensory and
+‘motivational processes to execute movements, and also what happens when
+‘movements malfunction, So let's get started!
+
+-------------------------------------------
+
+Week 7, Lecture 1 - Motor Control - Page 2
+The Control of Movement
+
+Ultimately, the brain is linked to the concept of doing something, that is,
+movement
+
+Internal processing would be useless without the ability to react to the
+environments (e.g, move)
+
+ 
+
+[read through the slide]
+
+Basically, the function of the brain is to interact with the world, and we need
+‘movement to do that. Our brains have another important function that we've
+been talking about these past two weeks ~ to provide a coherent picture of the
+‘world, which is provided via our sensory organs and the systems that integrate
+‘that information... but what do we do with sensory information once we have
+it? We use it to move about successfully ~ to obtain food, to find mates, to
+avoid dangers ~ essentially, to survive.
+
+So I think you can make a strong argument for movement being one of the
+primary functions of the brain,
+
+-------------------------------------------
+
+Week 7, Lecture 1 - Motor Control - Page 3
+Muscles and Their Movements
+
+All animal movement depends on muscle contractions of one of three (or
+‘a combination of) types of muscles.
+
+= Smooth muscles: control the digestive system and other organs
+
+© Skeletal/striated muscles: control movement of the body in relation to the
+
+environment
+
+«Cardiac muscles: heart muscles that have properties of skeletal and smooth
+muscles
+
+ 
+
+‘The first thing we should talk about when we talk about movement is the
+different structures that allow us to move. This is mainly accomplished by
+‘muscles. And in animals, all movement depends on muscle contractions,
+‘which you can think of as the tensing up of muscles. All animals” muscles can
+‘be divided into three types, and all animals use different combinations of these
+three types to move in different ways.
+
+[read through the different types]
+
+-------------------------------------------
+
+Week 7, Lecture 1 - Motor Control - Page 4
+Three Categories of Vertebrate Muscles
+
+SeletayStiated Cadac
+
+ 
+
+This is a really nice picture that delineates the three different types of muscle:
+
++ Smooth muscle, which is found in the intestines and other organs, consists,
+of these long, thin cells.
+
++ Skeletal or striated muscle consists of long cylindrical fibers with stripes —
+hence the term striated, which is another term for “linear marks” or
+“stripes”
+
++ And finally we have cardiac muscle, which is found solely in the heart, and
+which consists of fibers that fuse together at various points. Because of
+these fusions, cardiac muscles contract together rather than independently
+
+-------------------------------------------
+
+Week 7, Lecture 1 - Motor Control - Page 5
+Muscle Fibers
+
+‘Muscles are composed of many individual fibers
+© Each muscle fiber receives information from only one axon, but a single axon
+‘may innervate many muscle fibers
+
+«The fewer number of fibers that are innervated by an axon, the more precise
+
+the movements (e.g, eye muscles)
+
+© The greater number of fibers that are innervated by an axon, the less precise
+the movements (e.g, bicep muscles)
+
+ 
+
+So let's drill down further and look at what muscles are made of. Go ahead and
+read through the slide to get an idea of how these structures are broken down
+into their component parts
+
+Speaking to these last two bullet points, why is it like that? Think about the
+fovea, and how one cone connects to one bipolar cell, and that one bipolar cell
+connects to one midget ganglion cell, and so on. The fact that a single cone has
+a direct route to the brain means that there's no interference coming from other
+neurons ~ so visual information from the fovea ends up being very precise.
+
+‘The same is true for muscle fibers: fewer connections means less interference,
+‘which enables more precision in movement.
+
+-------------------------------------------
+
+Week 7, Lecture 1 - Motor Control - Page 6
+Muscle Fibers
+
+‘A neuromuscular junction is a
+synapse between a motor neuron
+axon and a muscle fiber
+
+Release of acetylcholine causes the
+
+muscle to contract
+
+ 
+
+Motor neurons are connected to muscle fibers, and the synapse between them
+is known as a neuromuscular junction,
+
+Motor neurons release acetylcholine into the neuromuscular junction, and
+‘when acetylcholine binds to receptors on the muscle, it causes a contraction,
+
+‘Now; I'm definitely not expecting you to know any of the processes here, but I
+‘think this diagram is worth taking a moment to study. Ask yourself how this
+reaction is similar to what you know about action potentials and the release of
+neurotransmitters in the synapse. At this point in the class it's probably a litle
+‘overwhelming to look ata frst, but the more you look ati, the more it should
+start to seem familiar to you. Look how much progress we've made! ©
+
+-------------------------------------------
+
+Week 7, Lecture 1 - Motor Control - Page 7
+Antagonistic Muscles
+
+‘Muscles only receive signals to
+contract (via acetylcholine)
+
+Movement requires the alternating
+contraction of opposing sets of
+
+muscles called antagonistic muscles
+
+‘Two types of antagonistic muscles:
+‘Aflexor muscle is one that flexes or
+raises an appendage (e.g, biceps)
+
+© An extensor muscle is one that
+extends an appendage or straightens
+it(eg, triceps)
+
+ 
+
+Muscles only receive signals to contract, which as I said previously is,
+accomplished through the transmission of acetylcholine. And they relax in the
+absence of this signal.
+
+‘Similarly, there are no signals which tell muscles to move in the opposite
+direction ~ this is accomplished through the contraction of opposing sets of
+‘muscles which are called antagonistic muscles.
+
+‘There are two types of antagonistic muscles, which you can read about on this
+slide.
+
+-------------------------------------------
+
+Week 7, Lecture 1 - Motor Control - Page 8
+Fast and Slow Muscles
+
+‘Skeletal muscle types range fror
+* Fasttwitch: fibers produce fast contractions, but fatigue rapidly
+« Slow-twiteh: fibers produce less vigorous contractions, without fatigue
+
+ 
+
+Muscles themselves are made up of muscle fibers, and in skeletal muscles, this
+‘produces two types of muscles: fast- and slow-twitch. You can read brief
+descriptions of these above,
+
+-------------------------------------------
+
+Week 7, Lecture 1 - Motor Control - Page 9
+Fast and Slow Muscles
+
+People have varying percentages of fast-twitch and slowetwiteh muscles
+
+Sow-twtch fibers are aerobic (requires cxygen during movement) and therefore do not fatigue
+™ Nonstrenous or sustained actives ize slow-twitch and intermediate muscle fibers
+Fasttwiteh fibers are anaerobic (4 not require oxygen during movement, but need itto
+resulting in fatigue
+avo requiring quick movernents ue fast-twitch fibers
+
+ 
+
+[read through the slide frst]
+
+Both of these fibers use oxygen like currency, but slow-twitch fibers use
+‘oxygen as they're active, so they can be sustained for a lot longer. Fast-twitch
+fibers don’t use oxygen when they're active, but they'll need oxygen to
+replenish themselves eventually. So they typically occur in short, strong bursts
+‘of movement.
+
+-------------------------------------------
+
+Week 7, Lecture 1 - Motor Control - Page 10
+Muscle Control by Proprioceptors
+
+Proprioceptors: receptors that detect the
+position or movement of a part of the body “===
+
+‘Muscle spindles are proprioceptors parallel
+to the muscle that responds to a stretch >
+
+‘cause a contraction of the muscle
+A stretch reflex occurs when muscle
+proprioceptors detect the stretch and tension
+of a muscle and send messages to the spinal
+cord to contract it
+
+* Example: Knee-jerk reflex
+
+ 
+
+We have an ability to automatically and unconsciously make adjustments to
+our bodies in response to small physical changes in this environment. This is,
+accomplished by proprioceptors, which are receptors that continually detect
+the position of your body relative to its surroundings.
+
+‘One type of proprioceptor is called a muscle spindle. Muscle spindles lie
+parallel to the muscle that responds to a stretching motion. Whenever a muscle
+stretched, the muscle spindle sends a message to a motor neuron in the
+spinal cord, which in tun sends a signal that triggers the opposing muscle to
+contract. This keeps us from over-extending our muscles when we move. This
+broad set of movements is known as a stretch reflex. A knee-jerk reflex is a
+type of stretch reflex: when something hits our knee at just the right place, our
+knee will make a small jerking motion, but won't extend our leg all the way.
+out. This isa stretch reflex in action.
+
+-------------------------------------------
+
+Week 7, Lecture 1 - Motor Control - Page 11
+Muscle Control by Proprioceptors
+
+The Golgi tendon organs
+another type of proprioceptor
+that responds to increases in
+muscle tension
+
+© Located in the tendons at the
+
+‘opposite ends of the muscle
+
+© Acts as a “brake” against
+excessively vigorous
+contraction by sending an
+impulse to the spinal cord
+where motor neurons are
+inhibited
+
+ 
+
+Another type of proprioceptor, the Golgi tendon organ, responds to increases
+in muscle tension. It’s located in a very small area, at opposing ends of a
+‘muscle, in the tendons. And its function is to essentially prevent muscles from
+‘over-contracting,
+
+So basically, when a muscle contracts, Golgi tendon organs send signals to the
+spinal cord, and these signals activate inhibitory neurons. This stops the
+‘muscle from contracting too much, which could potentially cause a lot of
+damage.
+
+So both muscle spindles and Golgi tendon organs function to keep muscles
+from over-exerting themselves. This is very important, because a lot of muscle
+‘movements are reflexive ~ meaning they tend to occur automatically. So we
+need something in place to automatically keep these reflexes from being too
+vigorous.
+
+-------------------------------------------
+
+Week 7, Lecture 1 - Motor Control - Page 12
+‘Two kinds of proprioceptors
+regulate muscle contractions
+
+Muscle is stretched > nerves from
+muscle spindles stimulate
+contraction of the muscle
+
+Once muscle is contracted > Golgi
+tendon organ keeps contraction from
+being too quick/extreme
+
+ 
+
+This is a nice depiction of how these two types of proprioceptors work in
+tandem.
+
+When a muscle is stretched, nerves from the muscle spindles, which are
+located on muscles transmit impulses that lead to contraction of the muscle.
+When a muscle is contracted, that stimulates the Golgi tendon organ, whi
+located here on the muscle tendon. The organ acts as a brake or shock
+absorber to prevent a contraction that is too quick or extreme. You can follow
+‘the pathways of each, and in the spinal cord you can see that the muscle
+fibers have an excitatory effect (indicated by the plus signs in the spinal cord),
+\which the Golgi tendon organs have an inhibitory one (indicated by the minus
+signs in the spinal cord).
+
+-------------------------------------------
+
+Week 7, Lecture 1 - Motor Control - Page 13
+Voluntary and Involuntary Movements
+
+Reflexes are involuntary, consistent, and automatic responses to stimuli
+
+‘Most movements are a combination of voluntary (non-reflexive) and
+involuntary (reflexive)
+
+‘Movements vary with respect to feedback.
+
+© Some are ballistic > cannot be changed once initiated.
+
++ Others are guided by feedback and are more controlled
+
+ 
+
+So that’s how different muscles interact with motor neurons. Let's talk about
+movement more generally.
+
+Movement can roughly be divided into two types: voluntary and involuntary.
+Reflexes ~ which are what we've been talking about so far ~ are involuntary.
+‘They're also consistent, in that they respond the same way to the same type of
+stimulation every time, And they are also automatic, meaning they occur in
+response to a stimulus without interference (although they can be interrupted).
+
+ 
+
+Importantly - even though you can divide up movement into voluntary and
+involuntary, most movements are a combination of both.
+
+Movements also vary with respect to feedback from the environment. Some
+are “ballistic,” meaning once they start, you can't stop them. This includes
+‘most reflexes. Others are more sensitive to feedback and are thus more under
+voluntary control. Your book uses an example of threading a needle ~ thi
+something that requires feedback from the environment to tell you whether
+you need to adjust the position of the thread, the needle, or both,
+
+-------------------------------------------
+
+Week 7, Lecture 1 - Motor Control - Page 14
+Sequences of Behaviors
+
+Many behaviors consis of rapid sequences of individual movements
+
+Central pattern generators > neural mechanisms in the spinal cord that
+generate rhythmic patterns of motor output
+* Example: wing flapping in birds or "wet dog shake”
+
+ 
+
+[read through this slide first]
+
+In terms of central pattern generators, the thing that causes them to do their
+thing does not control how fast it's done once it starts. Unless there's
+something wrong, a given dog will always shake at the same frequency once
+that behavior is initiated.
+
+| looked up “wet dog shake” to give you some visuals, and it really paid off
+although I'm sad you won't be able to see these as gifs, because they're really
+‘magnificent, Dogs are very floppy, apparently. But importantly! This is an
+example of a motion pattern that will always occur at the same frequency once
+initiated. The motion pattern itself is generated in the spinal cord, and
+interestingly, this pattern will be initiated even if the neurons involved are
+isolated from the brain or the muscles involved are paralyzed. The shake may
+ultimately look different, but the pattern will still be initiated regardless. t's
+like executing a computer program, even if they underlying hardware isn’t
+capable of performing it
+
+-------------------------------------------
+
+Week 7, Lecture 1 - Motor Control - Page 15
+Sequences of Behaviors
+Many behaviors consist of rapid sequences of individual movements
+‘A motor program refers toa fied sequence
+
+‘of movements that is either learned or built
+into the nervous system
+
+© Once begun, the sequence is fixed from
+beginning to end
+
+« Automatic, but thinking or talking about it
+can interfere with the action
+
+«= Examples: mouse grooming itself; yawning
+
+ 
+
+One specific type of central pattem generator is called a motor program. This
+refers to a fixed sequence of movements ~ and it can either be learned, or
+“innate” (side note: I actually don't like using the term innate because it’s,
+often misunderstood, but I think it works here).
+
+A central pattern generator isa type of motor program that is mainly initiated
+in the spinal cord. But there are many other types of motor programs out there.
+For any motor program, though, once it begins, the sequence is fixed. Your
+book has a great example of a cat scratching: once initiated, a cat will scratch
+at roughly the same frequency, for roughly the same duration. Other examples
+include yawning (in all animals that yawn) or grooming patterns in mice. And
+as.a side note: many of these patterns are initiated automatically, but can also
+be interrupted once started, You can, for example, interrupt someone in the
+‘middle of yawning ~ they might not like you for doing it, but you can do it
+nonetheless.
+
+-------------------------------------------
+
+Week 7, Lecture 1 - Motor Control - Page 16
+Questions for your discussion group...
+
+4. Why are slow-twitch muscles better for sustained movement, and fast-
+‘twitch muscles better for short bursts of movement?
+
+‘What are central pattern generators? Give an example of one that was
+not given in lecture or your book.
+
+ 
+
+‘Okay, that does it for this lecture! Hopefully reading my notes hasn't been too
+bad @
+
+Thave two discussion questions for you here, and then we'll move on to the
+next lecture: brain mechanisms of movement. See you there!

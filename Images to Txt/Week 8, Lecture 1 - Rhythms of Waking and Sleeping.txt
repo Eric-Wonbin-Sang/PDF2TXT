@@ -1,0 +1,498 @@
+Week 8, Lecture 1 - Rhythms of Waking and Sleeping - Page 0
+Rhythms of Waking and
+
+Sleeping
+
+WEEK 8, LECTURE 7
+
+ 
+
+Welcome back everyone! Sorry to deliver another written lecture this week.
+Fun fact, I think in getting sick I seriously damaged my vocal cords at some
+point. I'm working on resting up, so my hope is that at least the last two
+lectures will be recorded again, But for now, you'll have to work with my
+notes. I hope these are clear enough ~ please let me know if they aren’t, as this
+ymewhat of a new format for me.
+
+ 
+
+In any case! This week's lecture is (I think) really interesting! We'll be talking
+about different aspects of sleep.
+
+-------------------------------------------
+
+Week 8, Lecture 1 - Rhythms of Waking and Sleeping - Page 1
+This lecture series will cover...
+Rhythms of waking and sleeping
+
+Stages of sleep and brain mechanisms involved
+Sleep > REM and dreaming
+
+Sleep disorders
+
+ 
+
+‘This is generally what we'll be covering in our lecture series this week. We'll
+start by talking about how sleep is regulated, and from there we'll discuss the
+different brain mechanisms involved in sleep. We'll have a really interesting
+discussion (or, written note-reading session) about the function of sleep and
+‘dreaming in particular, and we'll finish by talking about some cases where
+sleep can be disordered. So, let's get started.
+
+-------------------------------------------
+
+Week 8, Lecture 1 - Rhythms of Waking and Sleeping - Page 2
+Rhythms of Waking and Sleeping
+
+Early psychologists believed that cycles of wakefulness and sleep were
+dependent upon external stimuli
+
+Curt Richter in 1922 proposed that the body generates its own cycles of
+activity and inactivity
+
+ 
+
+So carly on, psychologists believed that external stimuli ~ things like light and
+temperature ~ were the sofe determinants of sleep and wakefulness. Being
+exposed to bright light makes you more awake, being in darkness makes you
+more sleepy, etc. ete.
+
+It wasn’t until about 1922 that a researcher named Curt Richter proposed that
+the body regulates its own cycles of activity and inactivity (he referred to it as
+the “biological clock"). We do still respond to things like light and
+temperature, but these external stimuli serve to signal or modulate these
+internal processes. Your book uses an example of pulling an all-nighter ~
+something I'm sure we've all been through at some point in our lives. When
+you pull an all-nighter, you are forcing yourself to be awake. And yet, if you
+think back to your most recent all-nighter, you might remember that you were
+‘more tired as the night went on, but as the day started you gradually became
+‘more alter. This ean happen even if you're in a small room with near-constant
+exposure to artificial light (say, studying for an exam), which means that
+something inside you is generating these feclings of tiredness and alertness,
+independent of how much or how little light you're being exposed to.
+
+-------------------------------------------
+
+Week 8, Lecture 1 - Rhythms of Waking and Sleeping - Page 3
+Endogenous Circannual and Circadian
+Rhythms
+
+Some animals generate endogenous circannual rhythms, internal mechanisms
+that operate on an annual or yearly cycle
+
+“Example: birds’ migratory patterns; animals storing food forthe winter
+
+All animals produce endogenous circadian rhythms, internal mechanisms that
+
+‘operate on an approximately 24-hour cycle
+* Sleep cycle
+
++ Frequency of eating and drinking
+
+* Body temperature
+
+«Secretion of hormones
+
++ Urination
+
+Sensitivity to drugs
+
+ 
+
+What are these internal systems? Well, it can vary from species to species.
+‘Some animals have what are called circannual rhythms, which you ean read
+about above.
+
+ALL animals have endogenous (i... internally generated) circadian rhythms,
+‘which again you can read about above.
+
+‘These rhythms determine not just sleep but also other regulatory processes,
+‘many (although not all) of which are listed above. Each one of these is
+described in more detail in your book, which I recommend you read through,
+
+-------------------------------------------
+
+Week 8, Lecture 1 - Rhythms of Waking and Sleeping - Page 4
+Setting and Resetting the Biological Clock
+
+The function of the circadian rhythm is to keep our internal workings in phase
+with the outside world
+
+The human circadian clock generates a rhythm slightly longer than 24 hours
+when it has no external cue to setit,
+«Resetting our circadian rhythms is sometimes necessary
+
+Zeitgeber: German meaning “time giver, refers to stimuli that reset the
+
+circadian rhythm
+
+* Examples: sunlight, tides, exercise, meals, arousal of any kind, meals, temperature of
+environment, and so on,
+
++ Depression, iritablty, and impaired job performance are effects of using something
+other than sunlight asa zeitgeber
+
+ 
+
+Why do we have these internal cycles? It seems like the function of these is to
+keep us in syne with the outside world. The reasoning for this is actually
+somewhat circular (this is my own opinion), but as we'll find out later in this
+series, it’s not entirely clear why we sleep in the first place. So it seems like, at
+the very least, we have these internal cycles, and they try very hard to align
+with cycles of day and night in the outside world. They are actually fairly
+malleable, and your book has some interesting examples of when these cycles
+can be shifted.
+
+ 
+
+And in fact, our circadian rhythms don’t line up exactly with a 24-hour cycle.
+‘Our rhythms are actually slightly longer than that, which means that every
+once in awhile we need to shift or adjust them to line back up. Sometimes
+completely resetting these rhythms is necessary, like when you travel to a
+completely different time zone.
+
+‘There's this German term called Zeitgeber, or “time giver”, which refers to
+any type of stimuli that can reset your circadian rhythms. There are a bunch of
+examples listed above (again, your book goes into much more detail about
+these). Now again, these are external factors which can alter or reset your
+circadian rhythm. The point is that it’s not completely determined externally.
+
+-------------------------------------------
+
+Week 8, Lecture 1 - Rhythms of Waking and Sleeping - Page 5
+We have an internal cycle that exists in the absence of these factors, but these factors
+can alter that rhythm, Let’s go over some specific examples over the next few slides...
+
+-------------------------------------------
+
+Week 8, Lecture 1 - Rhythms of Waking and Sleeping - Page 6
+Jet Lag
+
+Refers to the disruption of the circadian rhythms due to crossing time
+zones
+
+© Stems from a mismatch of the internal circadian clock and external time
+«Sleepiness during the day, sleeplessness at night, and impaired concentration
+
+‘Traveling west “phase-delays” our circadian rhythms
+
+Traveling east “phase-advances” our circadian rhythms
+
+ 
+
+‘One fairly common example of a disruption in circadian rhythm is jet lag,
+which occurs when we cross time zones. These can be really minor, if we go
+somewhere that’s an hour ahead... or they can be really extreme, if we go
+somewhere that’s 12 or more hours ahead (or behind). At first, we tend to stick
+to the rhythm from the place we originated from ~ the rhythm we're used to.
+But as we receive cues that daytime and night time are occurring at different
+parts of our cycle than we're used to, this ean cause shifts in tiredness and
+alertness.
+
+It’s generally less disruptive to travel west. We “phase-delay” our rhythms; the
+time at the place we arrive at is slightly earlier than the one we left, and so we
+end up staying awake later and sleeping later until we adjust.
+
+It’s more disruptive to travel east In this case, we “phase-advance” our
+rhythms, meaning we arrive in a place that has a later time than we're used to.
+If we leave in the morning and arrive at night, we're likely not going to be
+sleepy until our internal cycle tells us it’s “nighttime,” which is still based on
+where we originated from. In this case, we have to essentially force ourselves
+to adhere to the new rhythm — by sleeping when it’s dark and waking when it’s
+light — even if our internal cycles are telling us otherwise.
+
+-------------------------------------------
+
+Week 8, Lecture 1 - Rhythms of Waking and Sleeping - Page 7
+Shift Work
+
+For people who work odd hours, sleep duration depends on when they go
+tosleep
+
+Working at night does not reliably change the circadian rhythm
+Even after long periods of working at night, people can still feel grogay, sleep
+
+poorly during the day, and body temperature peaks while sleeping instead of
+while working
+People adjust best to night work if they sleep in a very dark room during
+the day and work under very bright lights at night
+
+ 
+
+Another example is shift work ~ and specifically, people who work irregular
+shifts (eg. night shifts). For these individuals, the amount of time they sleep
+‘depends on when they go to sleep. If they go to sleep in the morning, for
+example, they tend to only sleep fora few hours before waking up
+automatically.
+
+‘You might think that someone who consistently works, say, a night shift would
+eventually shift their circadian rhythm to match an awake-at-night-asleep-
+<during-the-day cycle. But this actually isn’t the case, and you can read about
+some of the problems these individuals have above.
+
+‘The best solution to this ~ atleast for people who work night shifts ~ is to
+sleep in a very dark room during the day and work under very bright lights at
+night — essentially simulating “normal” day/night cycles,
+
+-------------------------------------------
+
+Week 8, Lecture 1 - Rhythms of Waking and Sleeping - Page 8
+Morning People and Evening People
+
+Cycles can differ between people and lead
+to different patterns of wakefulness and
+alertness
+
+Change as a function of age...
+
+© Young children tend to be morning people
+«= Adolescents are often night people
+
+‘As an adult, it partially depends upon
+genetics
+
+ 
+
+‘There are also individual differences in people’s sleep cycles. Some people are
+“night owls” and some people are “morning larks” (Which is a term I wasn’t
+aware of until I read this textbook... I've just been calling them “morning
+people”...), and some people are neither. Generally speaking, young children
+tend to be morning people and adolescents tend to be night people. Personally,
+I'ma night person, but I've noticed that's changed as I've gotten older. Now
+I'm much more comfortable waking up early, whereas 5 or 6 years ago I would
+have been incredibly upset if | had to wake up before Sam.
+
+ 
+
+‘This graph is based on a study that looked at the variance of individuals’
+sleep/wake cycles in terms of both gender and age. They asked individuals to
+record the “middle” of their sleep on days on which they had no obligations
+(middle” here means finding the midpoint between the time they fell asleep
+and the time they woke up). You can see a few things by looking at the graph:
+first, that there is a lot of individual variance (by looking at the dots). There
+also appears to be a gender difference, in which males report sleeping much
+later than females on average. And there's also an age difference ~ both of the
+sexes recorded here report a peak in sleep time around the age of 20, and that
+steadily declines (and the gender difference becomes smaller) as age increases.
+
+-------------------------------------------
+
+Week 8, Lecture 1 - Rhythms of Waking and Sleeping - Page 9
+Mechanisms of the Biological Clock
+
+‘Mechanisms of the circadian rhythms
+© The suprachiasmatic nucleus (SCN)
+
+«© Genes that produce certain proteins
+
+© Melatonin levels
+
+ 
+
+So those are some examples of different factors that can shift one’s circadian
+
+rhythms. Let’s move on and talk about the physiological components that
+underlie this mechanism,
+
+-------------------------------------------
+
+Week 8, Lecture 1 - Rhythms of Waking and Sleeping - Page 10
+The Suprachiasmatic Nucleus (SCN)
+
+‘The main control center of the
+circadian rhythms of sleep and
+‘temperature
+
+* Located above the optic chiasm
+
+and part of the hypothalamus
+
+Damage to the SCN results in less
+consistent body rhythms that are
+no longer synchronized to
+environmental patterns of light
+and dark
+
+ 
+
+We'll start with an area called the suprachiasmatic nucleus (SCN), which you
+‘can read about above,
+
+-------------------------------------------
+
+Week 8, Lecture 1 - Rhythms of Waking and Sleeping - Page 11
+The SCN and the Circadian Rhythm
+
+Generates circadian rhythms in a genetically controlled, unlearned
+
+manner
+
+« Single cell extracted from the SCN and raised in tissue culture continues to
+produce action potential in a rhythmic pattern
+
+Various cells communicate with each other to sharpen the circadian
+rhythm,
+
+ 
+
+‘The SCN is genetically controlled, meaning its behavior is completely
+unlearned. Interestingly, if you remove cells from the SCN and keep them
+alive in a tissue culture, they'll continue to fire in response to the body's
+circadian rhythm, The same thing will happen if you remove SCN cells from
+‘one organism and transplant them to another whose SCN has been completely
+removed: the recipient will take on the circadian rhythms of the donor
+‘organism! So this area is incredibly genetically specified.
+
+‘This effect can be produced by a single SCN cell, although having more SCN
+cells attuned to one cycle will sharpen or enhance the rhythm,
+
+-------------------------------------------
+
+Week 8, Lecture 1 - Rhythms of Waking and Sleeping - Page 12
+The SCN and the Retinohypothalamic
+Path
+
+Light resets the SCN via a small branch of the
+optic nerve called the retinohypothalamic
+path
+
+© Travels directly from the retina to the SCN
+
+‘The retinohypothalamic path comes from a
+special population of ganglion cells that have
+their own photopigment called melanopsin
+© The cells respond directly to light and do not
+require any input from the rods or cones
+
+ 
+
+‘Since the SCN is one of the primary determinants of the circadian rhythm, it is,
+relatively sensitive to light. The SCN is connected to a branch of the optic
+nerve called the retinohypothalamic pathway. This pathway contains a special
+type of ganglion cell that does not respond to photoreceptors; rather it
+responds directly to light via a photopigment called melanopsin (recall from
+our lecture on methodology that “opsins” are chemicals that respond
+especially well to light),
+
+‘These cells respond to gradual changes in light, which helps the SCN
+determine the time of day, and subsequently help regulate
+tiredness/wakefulness. Interestingly, these cells respond especially strongly to
+short-wavelength (i, blue) light, which is one of the reasons why staring at
+your phone right before you fall asleep will actually result in lower quality
+sleep (or a general delay in falling asleep),
+
+-------------------------------------------
+
+Week 8, Lecture 1 - Rhythms of Waking and Sleeping - Page 13
+The Biochemistry of the Circadian
+Rhythm
+
+Two types of genes are responsible for generating the circadian rhythm.
+«Period: produce proteins called PER
+«Timeless: produce proteins called TIM
+
+PER and TIM proteins increase the activity of certain kinds of neurons in
+
+the SCN that regulate sleep and waking
+= Mutations in the PER gene result in odd circadian rhythms or decreased
+alertness if deprived of a good night's sleep
+
+ 
+
+So to sum up what we've talked about so far: the retinohypothalamie pathway
+‘transmits light information to the SCN, which helps the SCN determine the
+time of day. From there, the SCN regulates circadian rhythms. Now the
+‘question is, how does it actually do that?
+
+‘There are two types of genes that are responsible for generating these rhythms:
+period (which produces proteins called PER) and timeless (which produces
+proteins called TIM)
+
+‘These two proteins interact to regulate sleep and wakefulness by activating
+certain neurons in the SCN, which you can read more about above,
+
+-------------------------------------------
+
+Week 8, Lecture 1 - Rhythms of Waking and Sleeping - Page 14
+Interaction of mRNA with PER and TIM
+Proteins
+
+ 
+
+How do these proteins work, exactly? Your book gives an example from fruit
+flies, but the principle is generally the same for humans.
+
+‘There are two processes at work here: 1) mRNA coding for the production of
+PER and TIM (indicated by the black line) and 2) the actual concentration of
+PER and TIM (indicated by the red line). You can see from looking at the image
+above that coding comes first, and concentration is slightly delayed [it takes
+‘time for these proteins to be produced, after al).
+
+MRNA begins to code for the production of PER and TIM early in the morning,
+‘when their concentrations are at their lowest. mRNA will continue to ramp up
+its coding throughout the day, and the result is that by the evening, the actual
+concentration of PER and TIM is at its highest. At this point, when PER and
+TIM are at their peak, they'll send a signal back to mRNA to decrease.
+production. mRNA concentrations decrease, and over the course of the
+evening, PER and TIM concentrations slowly decrease as well. By morning,
+PER and TIM concentrations are at their lowest, and the cycle starts back up
+again
+
+-------------------------------------------
+
+Week 8, Lecture 1 - Rhythms of Waking and Sleeping - Page 15
+‘Now, | realize | haven't really told you what PER and TIM do with regards to circadian
+rhythms. Part of the reason is that it’s beyond the scope of this class, but another is
+because, like | mentioned, PER and TIM are present in fruit flies, and are not present
+in the same way in humans. We possess genes similar to PER and TIM, and their
+functioning i... complicated. Your book provides several examples of how mutations
+(or malfunctions in these proteins can lead to disordered sleep. This is a great way to
+study how these proteins function ~ if one of them malfunctions and causes, say,
+delays in sleep, we know that that protein must be involved in the part of the
+circadian chythm that makes you sleepy as the day ends.
+
+-------------------------------------------
+
+Week 8, Lecture 1 - Rhythms of Waking and Sleeping - Page 16
+Melatonin
+
+‘The SON regulates waking and sleeping by
+controling activity levels nother areas of the
+bain
+"The SN repuates the pineal lan, an endocrine
+and located posterior tothe alamus
+
+“The pineal gland secretes melatonin, ahormone
+Thatincreaterseepness
+
+Melatonin secretion usually begins twoto three
+hours before bedtime
+* Melatonin feeds backto reset he ological dock
+tvouph is efets on ceptors inthe SEN
++ Melatonin taken inthe afteroon can phase
+Seep ais
+
+ 
+
+‘The SCN also regulates an area of the brain known as the pineal gland ~ and
+specifically, it leads to the release of a hormone called melatonin, which you
+‘can read about above,
+
+Melatonin can actually be used as an effective sleep aid ~ and it’s sold over the
+‘counter (and now in gummy form). It's most effective when taken a few hours
+‘before bedtime (you can also take it in the afternoon, but this might cause you
+to become sleepy closer to sunset).
+
+-------------------------------------------
+
+Week 8, Lecture 1 - Rhythms of Waking and Sleeping - Page 17
+Questions for your discussion group.
+
+1. How does the SCN work with PER, TIM, and Melatonin to regulate
+circadian rhythms?
+
+ 
+
+‘Okay, that does it for this first lecture! I have just one question for you for this
+lecture, because it was fairly short. Our next lecture will look at sleep cycles
+and the brain mechanisms that regulate them. See you then!

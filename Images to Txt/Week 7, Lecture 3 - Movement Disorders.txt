@@ -1,0 +1,399 @@
+Week 7, Lecture 3 - Movement Disorders - Page 0
+Movement Disorders
+
+WEEK 7, LECTURE 3
+
+ 
+
+Welcome back! This is your last lecture series for this week. This lecture series
+isa little shorter, and I’m actually kind of happy about that, because this really
+isn't my preferred medium of getting the information out to you. Ifit has to be
+‘this way, at least it’s for one of the shorter series, right?
+
+ 
+
+In any case ~ in our ast two lectures, we've been talking about movement
+under neurotypical conditions. This lecture will discuss cases in which
+‘movement can be impaired,
+
+-------------------------------------------
+
+Week 7, Lecture 3 - Movement Disorders - Page 1
+Movement Disorders
+
+Brain disorders, such as Parkinson's disease and Huntington’s disease not
+only affect movement, but also impair mood, memory, and cognition
+
+ 
+
+We'll mainly be focusing on two diseases: Parkinson's and Huntington's. Both
+of these are primarily considered movement disorders, but they effect much
+‘more than the ability to move: they also have effects on mood and cognition.
+‘There tends to be alot of variance in cognitive and mood symptoms, but I
+should also note that these are both incredibly debilitating diseases, so mood
+disorder is an unfortunately natural companion to the other symptoms.
+
+-------------------------------------------
+
+Week 7, Lecture 3 - Movement Disorders - Page 2
+Parkinson’s Disease
+
+‘Amovement disorder characterized by
+‘muscle tremors, rigidity, slow
+movements, and difficulty initiating
+physical and mental activity
+
+© Associated with an impairment in
+Initiating spontaneous movement in the
+absence of stimuli to guide the action
+
+Symptoms also include depression,
+‘memory and reasoning deficits, loss of
+olfaction, and other cognitive deficits
+
+ 
+
+Let’s start with Parkinson's disease. You can read about the general
+symptomatology above.
+
+-------------------------------------------
+
+Week 7, Lecture 3 - Movement Disorders - Page 3
+Causes of Parkinson's Disease
+
+Caused by gradual and progressive death of neurons, especially in the
+substantia nigra
+© Substantia nigra usually sends dopamine-releasing axons to the caudate
+rhucleus and putamen
+
+Loss of dopamine leads to less stimulation of the motor cortex and slower
+onset of movements
+
+ 
+
+Parkinson’s appears to be caused by the gradual, progressive death of
+dopaminergic neurons in the substantia nigra.
+
+‘The substantia nigra is another part of the basal ganglia, and it typically sends
+dopamine and GABA to the striatum, which enables the initiation of
+‘movements ~ and specifically learned movements.
+
+In Parkinson’s disease, the dopamine-releasing neurons in the substantia nigra
+start to die off. The loss of dopamine leads to less stimulation of the motor
+cortex, and slower onset of movements as a consequence
+
+-------------------------------------------
+
+Week 7, Lecture 3 - Movement Disorders - Page 4
+Comparison of Normal and Parkinson’s
+Connections Within the Brain
+
+ 
+
+‘This diagram highlights how Parkinson's disease affects normal brain
+functioning in the basal ganglia. Excitatory paths are shown in green, and
+inhibitory pathways are in red. The “normal” brain is on the left, and the one
+‘with Parkinson's is on the right.
+
+  
+
+you focus on the right image, you can see that there is decreased excitation
+from the substantia nigra. This leads to decreased inhibition from the
+striatum, and THAT leads to increased inhibition from the globus pallidus. The
+net result is a decrease in excitation, which leads to a decrease in motor
+functioning. This is another one of the many ”X inhibits Y which excites 2”
+pathways. | do not need you to know this in detail, but ! would like you to take
+2 moment and compare this to the functioning of the direct and indirect
+pathways we discussed in our last lecture. The best way to wrap your head
+around these types of pathways is with lots of examples. So again, I'm not
+‘going to ask you about these pathways in detail, but the best way to gain a
+deeper understanding of them is to spend a litte time going over examples
+(and of course I’m here if you have any questions)
+
+-------------------------------------------
+
+Week 7, Lecture 3 - Movement Disorders - Page 5
+Causes of Parkinson's Disease
+
+Studies suggest early-onset Parkinson's has a genetic link
+
+However, genetic factors are only a small factor of late onset Parkinson’s,
+disease (after 50)
+Also implicated:
+© Environmental influences such as exposure to toxins
+* Insecticides, herbicides, and fungicides
+© Traumatic head injury
+
+ 
+
+‘When it comes to determining the causes of Parkinson's Disease... it's
+complicated. No one has been able to determine why neurons in the substantia
+nigra begin to die off.
+
+‘There are many studies out there suggesting that there's some kind of genetic
+predisposition for it, although no one has been able to pinpoint what this is as
+of yet,
+
+Moreover, as with many disorders with a possible genetic component, it seems
+like genes play much more of a role in early-onset Parkinson's. For those who
+start to show symptoms after age 50 (j.. late-onset Parkinson’), it gets even
+‘more complicated. There's some research suggesting that individuals exposed
+‘to chemicals like pesticides are more likely to get it later in life. The same
+goes for people who have suffered a traumatic head injury at some point in
+their life. Again, though, it seems like a number of different factors lead to its
+onset. At this point, there is unfortunately no clear picture of the cause of this,
+disorder.
+
+-------------------------------------------
+
+Week 7, Lecture 3 - Movement Disorders - Page 6
+Causes of Parkinson's Disease
+
+Studies suggest early-onset Parkinson's has a genetic link
+
+However, genetic factors are only a small factor of late onset Parkinson’s
+disease (after 50)
+
+Also implicated:
+
+Environmental influences such as exposure to toxins
+“Traumatic head injury
+Damaged mitochondria of cells seems to be common to most factors that
+increase the risk of Parkinson's disease
+
+igarette smoking and coffee drinking are related to a decreased chance
+of developing Parkinson's disease
+
+ 
+
+Regardless, it seems like these causes all lead to one common outcome:
+damaged mitochondria of cells in the substantia nigra
+
+Also, weirdly ~ cigarette smoking and coffee drinking are related to a
+decreased risk of developing Parkinson's. And this is a pretty robust effect ~
+even extends to those who have persistently been exposed to second-hand
+smoke! But it’s really unclear what itis about smoking (and coffee drinking)
+‘that protects people against this disease. Researchers believe there might be
+some compound in nicotine that prevents damage, but the jury is stil out on
+this one. I've done a little bit of research preparing for this lecture (Parkinson's
+is not my area of specialty, although I think it’s fascinating) ~ and there really
+isn'ta lot of research on this topic. At least not yet!
+
+-------------------------------------------
+
+Week 7, Lecture 3 - Movement Disorders - Page 7
+Treatment of Parkinson’s Disease
+
+The drug L-dopa is the primary
+
+treatment for Parkinson's and is a Parkinson's Disease Drugs
+precursor to dopamine that easily = —
+
+crosses the blood-brain barrier
+
++ Often ineffective, especially for those ~,
+in the late stages of the disease 4
+
+= Does not prevent the continued loss
+of neurons
+
+© Can enter other brain cells and
+produce unpleasant side effects
+
+ 
+
+So how is Parkinson’s treated? Right now, the most effective medication is
+something called L-dopa, which is a precursor to dopamine that can easily
+‘cross the blood-brain barter.
+
+However, it’s by no means a cure, and also has several drawbacks, which you
+‘can read about above,
+
+‘Now, you don’t need to memorize anything about this chart, this is just here to
+show how L-dopa can cross the blood-brain barrier, be synthesized into
+dopamine, and the get released into the synapse.
+
+-------------------------------------------
+
+Week 7, Lecture 3 - Movement Disorders - Page 8
+Other Possible Treatments for
+Parkinson’s Disease
+
+Drugs that directly stimulate dopamine receptors
+Implanting electrodes to stimulate areas deep in the brain
+Experimental strategies such as:
+
+© Transplanting brain tissue of aborted fetuses
+
+« Implantation of stem cells that are programmed to produce large
+quantities of L-dopa
+
+ 
+
+‘The most promising alternative candidates for Parkinson's treatments are any
+drug that directly stimulates dopamine receptors (rather than providing a
+precursor for dopamine synthesis)
+
+‘There are also other strategies in the works, such as implanting electrodes to
+stimulate dopamine release in the basal ganglia, or things like transplanting the
+intact brain tissue of aborted fetuses to replace the damaged tissue in the
+substantia nigra, or directly implanting stem cells that have been pre-
+programmed to produce lange quantities of L-dopa.
+
+All of these are in the works, but none has been proven effective as of yet. We
+are nowhere near a cure for this disease, unfortunately.
+
+-------------------------------------------
+
+Week 7, Lecture 3 - Movement Disorders - Page 9
+Huntington’s Disease
+
+‘Aneurological disorder characterized by various motor symptoms
+© Affects 1 in 10,000 in the United States
++ Usually onset occurs between age 30:50
+Associated with gradual and extensive brain damage especially n the basal
+ganglia but also in the cerebral cortex
+Initial motor symptoms include arm jerks and facial twitches
+
+Motors symptoms progress to tremors and writhing that affect the persons
+walking, speech, and other voluntary movernents
+Also associated with various psychological disorders:
+* Depression, memory impairment, anxiety hallucinations/delusions, poor judgment,
+alcoholism, drug abuse, sexual disorders
+
+ 
+
+And on that note, le’s move on to our next topic. The next disease we're going
+to talk about is one that is quite rare but also quite devastating. Huntington's
+disease is characterized by a wide range of motor symptoms, which you can
+read about in detail above.
+
+-------------------------------------------
+
+Week 7, Lecture 3 - Movement Disorders - Page 10
+A Normal Brain vs. a Brain
+w/Huntington’s Disease
+
+ 
+
+‘The brain section on the left is a normal brain, and the one on the right is one
+‘that was affected by Huntington's disease. The angle of cut through the
+‘normal brain makes the ventricle look larger in this photo than it actually is.
+but even so, you can see how much larger the ventricle it isin the patient with
+Huntington's disease. The ventricles expand because of the loss of neurons,
+and CSF fills in the missing areas. You can also see that there is substantial
+neural tissue loss in the patient with Huntington's.
+
+-------------------------------------------
+
+Week 7, Lecture 3 - Movement Disorders - Page 11
+Heredity and Presymptomatic Testing
+
+Presymptomatic tests can identify with high accuracy who will develop
+Huntington’s disease
+© Controlled by an autosomal dominant gene on chromosome #4
+
+The higher the number of consecutive repeats of the combination C-A-
+G, the more certain and earlier the person is to develop the disease
+
+» Ethical dilemma > there is now a test for the disease, but would you
+want to know if you had it?
+
+ 
+
+Most disorders don't have a single genetic cause, but Huntington's is unique in
+that it does. The gene for Huntington’s is located on chromosome 4, and it's
+actually a dominant gene ~ so if you have it, it’s much more likely that the
+disease will manifest (as opposed to you being a carrier fori).
+
+ 
+
+   
+
+‘This gene codes for a specific sequence of nucleotides: C-A-G. And it actually
+codes for repeats of this sequence, basically telling this sequence to repeat
+over and over again, The more consecutive C-A-G repeats of this sequence
+one has, the more likely one is to develop the disease. A higher number of C-
+A-G repeats also indicates an earlier onset of the disease.
+
+Because so much is known about the genetic underpinnings of Huntington's,
+individuals who think they might be at risk can actually take a test for it even
+before they start showing symptoms. But the fact that testing exists raises a
+kind of scary ethical dilemma for people, Would you want to know if you had
+it? It can be an incredibly difficult choice for individuals who know they're at
+risk,
+
+-------------------------------------------
+
+Week 7, Lecture 3 - Movement Disorders - Page 12
+Example: Base Pair Repeats and Onset of
+Huntington’s Disease
+
+umber ofc repeat
+
+ 
+
+So this graph is based on a study that looked at the number of CAG repeats
+(on the x-axis) and the age of onset of Huntington's (on the y-axis). You can
+see that, first and foremost, as the number of repeats increases, the age of
+onset decreases (and vice versa). Notice also that there isa lot more
+variability (indicated by the black lines above and below each marking on the
+‘graph) for age of onset in people with fewer C-A-G repeats. This tells us that
+C-A-G repeats are a good predictor of age of onset, but there are other factors
+at play here as well.
+
+In any case, the take-home from this is that the more C-A-G repeats one has,
+‘the more likely one is to have the disorder, and the more likely itis to manifest
+earlier in life (around age 40 or so).
+
+-------------------------------------------
+
+Week 7, Lecture 3 - Movement Disorders - Page 13
+C-A-G Repeats and Huntington’s Disease
+
+Identification of the gene for Huntington's disease led to the discovery of
+
+the protein that codes it (huntingtin)
+
+© Mutant form impairs neurons in the brain; future drug therapy may address
+hhuntingtin
+
+Avariety of neurological diseases are related to C-A-G repeats in genes...
+
+ 
+
+[read through slide first]
+
+‘CAG repeats are actually not limited to Huntington's disease: they're also
+found in a number of other neurological diseases.
+
+-------------------------------------------
+
+Week 7, Lecture 3 - Movement Disorders - Page 14
+C-A-G Repeats and Other Diseases
+
+ 
+
+Here's another graph, which speaks to this last point. So, the x-axis here
+shows the number of C-A-G repeats, and the y-axis shows the average age at
+onset of different neurological diseases, including Huntington’s. The key point
+is that for each disease, the greater the number of C-A-G repeats, the earlier
+‘the onset of symptoms,
+
+So C-A-G repeats are a good way of assessing the potential manifestation of
+‘many neurological disorders, not just Huntington's.
+
+-------------------------------------------
+
+Week 7, Lecture 3 - Movement Disorders - Page 15
+Questions for your discussion groups..
+1. What is the (general) cause of Parkinson's Disease?
+2. What is the (general) cause of Huntington's Disease?
+
+ 
+
+‘That does it for this week's lectures! Here are some last discussion questions to
+round out the week.
+
+‘Thank you all for working with me this week. Hopefully by next week I'll be
+back at it again with my scratchy voice.
