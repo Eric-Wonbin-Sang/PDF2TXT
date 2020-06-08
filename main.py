@@ -1,30 +1,15 @@
-from pdf2image import convert_from_path, convert_from_bytes
 from PIL import Image
 import fitz
 import os
 
-import pyttsx3
 import pytesseract
-from googletrans import Translator
 
 pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files (x86)/Tesseract-OCR/tesseract.exe'
 
 
-def get_path_list_from_folder(folder_path):
-    path_list = []
-    for path in os.listdir(folder_path):
-        path_list.append(
-            "{}\\{}\\{}".format(
-                os.path.dirname(os.path.realpath(__file__)),
-                folder_path,
-                path
-            )
-        )
-    return path_list
-
-
 def get_path_list_from_complete_folder_path(folder_path):
     path_list = []
+    print(folder_path)
     for path in os.listdir(folder_path):
         path_list.append(
             "{}\\{}".format(
@@ -88,7 +73,13 @@ def main():
     base_image_output_folder = "PDF to Images"
 
     print("Converting PDFs to Images")
-    for pdf_path in get_path_list_from_folder("PDFs to Load"):
+
+    for pdf_path in get_path_list_from_complete_folder_path(
+            "{}\\{}".format(
+                os.path.dirname(os.path.realpath(__file__)),
+                "PDFs to Load"
+            )):
+
         print("Loading - {}".format(pdf_path))
 
         file_name = pdf_path.split("\\")[-1].split("/")[-1]
@@ -100,7 +91,11 @@ def main():
     base_txt_output_folder = "Images to Txt"
 
     print("Converting Images to Txt")
-    for image_output_folder in get_path_list_from_folder(base_image_output_folder):
+    for image_output_folder in get_path_list_from_complete_folder_path(
+            "{}\\{}".format(
+                os.path.dirname(os.path.realpath(__file__)),
+                base_image_output_folder
+            )):
         print("Loading - {}".format(image_output_folder))
 
         txt_file_name = ".".join(image_output_folder.split("\\")[-1].split("/")[-1].split(".")[:-1])
